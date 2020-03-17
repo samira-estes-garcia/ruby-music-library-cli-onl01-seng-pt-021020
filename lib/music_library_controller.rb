@@ -60,6 +60,7 @@ class MusicLibraryController
         puts "#{index}. #{artist.name} = #{artist.genre.name}"
     end
   end
+  end
   
   
   
