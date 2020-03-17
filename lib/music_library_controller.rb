@@ -80,7 +80,6 @@ class MusicLibraryController
     end
 
     puts "Playing #{song.name} by #{song.artist.name}" if song
-    end
   end
   
 end
